@@ -40,7 +40,7 @@ Architecture: Multitenant design, service/repository pattern, DTO-based API comm
 ![UOS App Dashboard](docs/images/dashboard.png)
 
 ### Order Management Module
-![Order Management Module](docs/images/order-module.png)
+![Order Management Module](docs/img/OrderManagementModule.png)
 
 ### Invoice Management
 ![Invoice Management Module](docs/images/invoice-module.png)
